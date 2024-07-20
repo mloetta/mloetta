@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 **Hello kind souls**
 
-<!--
-**mloetta/mloetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`I exist`**
 
-Here are some ideas to get you started:
+My name is Melo. I’m a developer who enjoys using TS and JS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=discord,js,ts&perline=3" />
+
+### Projects
+- [Atoms](https://atomsapp.xyz)
+- More soon!!
+<br />
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/mloetta)
