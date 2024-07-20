@@ -6,9 +6,9 @@ My name is Melo. I’m a developer who enjoys using TS and JS.
 
 ---
 
-### Tools
+### Stuff I use
 
-<img src="https://skillicons.dev/icons?i=discord,js,ts&perline=3" />
+<img src="https://skillicons.dev/icons?i=discord,js,ts,github,vscode,nodejs,firebase,mongoose,redis&perline=3" />
 
 ### Projects
 - [Atoms](https://atomsapp.xyz)
