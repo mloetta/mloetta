@@ -8,7 +8,7 @@ My name is Melo, and I’m a developer who enjoys working with TypeScript and Ja
 
 ### Stuff I use
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,github,vscode,firebase,mongodb,redis,discord&perline=3" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,bun,discordjs,github,vscode,firebase,redis,discord&perline=3" />
 
 ### Projects
 - [Atoms](https://atomsapp.xyz) (Discontinued)
