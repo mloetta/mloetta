@@ -1,6 +1,6 @@
 # 👋 **Hello kind souls**
 
-**Did you know that I exist?**
+**I exist... I guess?**
 
 My name is Melo, and I’m a developer who enjoys working with TypeScript and JavaScript.
 
@@ -11,8 +11,9 @@ My name is Melo, and I’m a developer who enjoys working with TypeScript and Ja
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,github,vscode,firebase,mongodb,redis,discord&perline=3" />
 
 ### Projects
-- [Atoms](https://atomsapp.xyz)
-- More soon!!
+- [Atoms](https://atomsapp.xyz) (Discontinued)
+- [Komono](https://komono.vercel.app/)
+- [Komono rewrite](https://github.com/mloetta/Komono)
 <br />
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/mloetta)
